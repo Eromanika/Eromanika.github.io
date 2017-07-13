@@ -83,7 +83,7 @@ font-size: 10px;
 .portfolio a {
 	display: block;
 	color: #333;
-	width: 17rem;
+	width: 16rem;
 	margin: 2rem auto 6rem;
 	border-bottom: 1px solid transparent;
 }
@@ -110,12 +110,12 @@ font-size: 10px;
 	line-height: 5rem;
 	display: inline-block;
 	color: #fff;
-border: 1px solid #fff;
-border-radius: 50%;
-margin-left: 1rem;
-margin-right: 1rem;
-font-size: 2rem;
-transition: 0.2s;
+	border: 1px solid #fff;
+	border-radius: 50%;
+	margin-left: 1rem;
+	margin-right: 1rem;
+	font-size: 2rem;
+	transition: 0.2s;
 }
 .social-links a:hover {
 background-color: #fff;
@@ -155,7 +155,8 @@ color: #646464;
 }
 .modal-btn {
 	display: inline-block;
-	border: 1 px solid #333;
+	color: #333;
+	border: 1px solid #333;
 	padding: 10px 20px;
 	border-radius: 5px;
 }
